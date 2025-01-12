@@ -6,4 +6,4 @@ Hello! Welcome to BambooUI documentation, in this part i will tell you how to wi
 3. at the start type "from BamUI import *"
 4. then "import pygame"
 5. next:
-![img1](https://imgur.com/a/qPxi69K)
+![img1](https://github.com/tartyusername/BambooUI/blob/main/images/IMG_20250112_033524.jpg?raw=true)
